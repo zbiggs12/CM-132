@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset-"utf-8">
+<title>Hello World</title>
+</head>
+
+<body>
+    <h1>Hello World</h1>
+    <h2>Hello World</h2>
+    <h3>Hello World</h3>
+    <h4>Hello World</h4>
+    <h5>Hello World</h5>
+    <h6>Hello World</h6>
+    saut de <br />ligne...
+    <hr />
+    <ol>
+        <li>lundi</li>
+        <li>mardi</li>
+        <li>mercredi</li>
+        <li>jeudi</li>
+        <li>vendredi</li>
+        <li>samedi</li>
+        <li>dimanche</li>
+    </ol>
+    
+    <ul>
+        <li>lundi</li>
+        <li>mardi</li>
+        <li>mercredi</li>
+        <li>jeudi</li>
+        <li>vendredi</li>
+        <li>samedi</li>
+        <li>dimanche</li>
+    </ul>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at lacus mattis, lobortis ante nec, semper ligula. Quisque nisi ex, vehicula dignissim augue non, posuere volutpat tortor. Sed vel porttitor metus. Donec at sapien facilisis, lacinia ante a, suscipit tellus. Vestibulum nec enim vel urna gravida iaculis sit amet quis velit. Etiam ac sapien egestas, varius mauris facilisis, pellentesque dui. Donec elementum, libero ut convallis eleifend, turpis ligula viverra eros, sit amet aliquet lacus libero sit amet nisi. Nullam vitae ultrices nisl, sed luctus ante.
+
+    Fusce viverra pretium risus. Pellentesque vel mollis turpis, non viverra ligula. Nunc eget ipsum in ipsum pulvinar feugiat. Vestibulum tempor felis ut urna rutrum rutrum. Morbi condimentum vehicula libero non iaculis. Cras vestibulum laoreet augue a facilisis. In eu nulla varius, tempor sem vel, euismod lectus. Aenean a odio placerat, volutpat massa eget, sollicitudin lacus. Maecenas feugiat eu arcu non ornare. Aenean facilisis gravida vestibulum. Proin a pretium ante. Aliquam ac sapien viverra, malesuada purus nec, vestibulum turpis. Duis libero risus, egestas sit amet odio nec, ornare efficitur ante.</p>
+</body>
+</html>
